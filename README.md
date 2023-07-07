@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Al, a sophomore majoring in Computer Science at University at Buffalo. I work with JavaScript and Python at the moment, but starting to love building cool things in Go! 
+I'm Al, a junior majoring in Computer Science at University at Buffalo. I work with JavaScript and Python at the moment, but starting to love building cool things in Go! 
 
 💼 Currently a Software Engineer Intern at [Optum, Inc.](https://www.optum.com/) creating internal tools under the ACET team <br>
 💻 Previously worked at [Seidenberg Creative Labs](http://seidenbergcreativelabs.com/) creating awesome projects for our clients <br>
